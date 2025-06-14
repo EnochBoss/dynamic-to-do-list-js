@@ -1,0 +1,1 @@
+This a simple and very user-friendly to-do app that offers a very appealing user interface. It should be very easy and straightforward to use.
